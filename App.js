@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Cristiano NeyMessi existe!</Text>
+      <Text>ET Bilu existe - Busquem a verdade!</Text>
       <StatusBar style="auto" />
     </View>
   );
